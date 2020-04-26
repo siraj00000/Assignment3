@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'opensans';
+    src: url('OpenSans-Regular.ttf');}
+.footer{
+    width: 100%;
+    background-color: rgb(37, 39, 46);
+    height: 400px;
+}
+.footer-1{
+    padding: 5px 20px 25px 20px ;
+    margin: 0px;
+    /* border: 1px solid black; */
+    color: rgb(164, 164, 166);
+    position: relative;
+    left: 10px;
+    top: 55px;
+    float: left;
+    max-width: 400px;
+    min-width: 20px;
+}
+.footer-sub{
+    float: left;
+    margin: 0px 5px -15px 15px;
+    /* margin: 10px 0px 0px 0px; */
+    /* padding: 0px auto 28px auto;     */
+}
+/* .table{
+    position: relative;    
+    
+} */
+h1{
+    font-size: medium;
+    text-align: center;
+}
+.footer-2{
+    margin: 30px 0px 4px -40px;
+    /* border: 1px solid black; */
+    height: 290px;
+    float: left;
+    width: 250px;
+}
+.footer-sub-1{
+    padding: 5px;
+    color: white;
+    font-weight: 800;
+
+}
+.divider{
+    border: 1.5px solid rgb(66, 121, 0);
+    position: relative;
+    right: 15px;
+    padding: 0px 10px 0px 0px;
+    width: 40px;
+}
+
+.text{
+    position: relative;
+    left: 25px;
+}
+h4{
+    position: relative;
+    left: 1px;
+    top: 3px;
+}    
+
+.text-2{
+    position: relative;
+    top: 15px;
+    right: 180px;
+}
+.footer-3{
+    position: relative;
+    left:  0px;
+    float: left;
+    margin: 30px 0px 4px 0px;
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 250px;
+}
+.footer-icon{
+    display: inline-block;
+    padding: 0px 0px;
+    width: 30px;
+    height: 30px;
+}
+.table-2 tr td{
+    padding: 5px;
+    color: white;
+}
+.copyright{
+    padding: 5px 0px 5px 50px;
+    color: white;
+    height: 40px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(49, 109, 217);
+}
